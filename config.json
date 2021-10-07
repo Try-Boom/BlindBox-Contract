@@ -1,0 +1,10 @@
+{
+  "main": "./contracts/Main.sol",
+  "deploy": "./build/contracts/Main.json",
+  "framework": "truffle-docker",
+  "compilers": {
+    "truffle": "v5.4.3",
+    "solc": "0.6.12"
+  },
+  "npmClient": "npm"
+}
